@@ -1,1 +1,0 @@
-it is text 3 of the file. Good comment
